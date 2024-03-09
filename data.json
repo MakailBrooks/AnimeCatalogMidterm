@@ -1,0 +1,44 @@
+{
+    "Anime": [
+        {
+            "title": "My Hero Academia",
+            "image": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
+            "link": "./showname.html"
+        },
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "image": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg",
+            "link": "./showname.html"
+        },
+        {
+            "title": "Love, Chunibyo & Other Delusions!",
+            "image": "https://cdn.myanimelist.net/images/anime/3/40167.jpg",
+            "link": "./showname.html"
+        },
+        {
+            "title": "The Devil is a Part Timer",
+            "image": "https://cdn.myanimelist.net/images/anime/3/50177l.jpg?_gl=1*1v7zits*_ga*MTQ5NzI5OTguMTY1OTE0MzMxMg..*_ga_26FEP9527K*MTcwOTc1NTcwNy40MjEuMS4xNzA5NzU2MjkzLjQyLjAuMA..",
+            "link": "./showname.html"
+        },
+        {
+            "title": "Demon Slayer",
+            "image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+            "link": "./showname.html"
+        },
+        {
+            "title": "The Seven Deadly Sin",
+            "image": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
+            "link": "./showname.html"
+        },
+        {
+            "title": "Attack on Titan",
+            "image": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+            "link": "./showname.html"
+        },
+        {
+            "title": "One Punch Man",
+            "image": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+            "link": "./showname.html"
+        }
+    ]
+  }

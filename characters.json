@@ -1,0 +1,274 @@
+{
+
+
+    "series": [
+        {
+            "title": "My Hero Academia",
+            "description": "A Series set in a world where about 80% of the human population has gained superpowers called \"Quirks\". With these Quirks there are those who have earned the title of Hero and those who are known as Villains. In this series we follow a group of character who aim to become Hero's themselves.",
+            "url": "https://cdn.myanimelist.net/images/anime/1985/96688l.jpg",
+            "characters":[{
+                "name":"Izuku Midoriya",
+                "description":"The Protagonist of the series who starts off Quirkless but gains the Quirk of One For All. Famous catchphrase: GO BEYOND, PLUS ULTRA!",
+                "charImage":"https://cdn.myanimelist.net/images/characters/7/299404.jpg"},
+            {
+                "name":"Katsuki Bakugou",
+                "description":"The explosive quirked childhood friend turned enemy then eventually rival. Quirk: Explosion, Famous catchphrase: DIE!",
+                "charImage":"https://cdn.myanimelist.net/images/characters/12/299406.jpg"
+            },
+            {
+                "name":"All Might",
+                "description":"Japan's number one hero and Izuku Midoriya's mentor. Quirk: One for All, Famous catchphrase: I AM HERE!",
+                "charImage":"https://cdn.myanimelist.net/images/characters/14/310613.jpg"
+            },{
+                "name":"Ochako Uraraka",
+                "description":"Close friend of Izuku Midoriya in class 1A, quirk: float, Famous Catchphrase: Giving up isn't an option!",
+                "charImage":"https://cdn.myanimelist.net/images/characters/9/299421.jpg"
+               
+            },{
+                "name":"Shouto Todoroki",
+                "description":"Close friend of Izuku Midoriya in class 1A, son of number two hero Endeavor, quirk: half cold and half hot famous catchphrase: Never forget who you want to become",
+                "charImage":"https://cdn.myanimelist.net/images/characters/12/332527.jpg"
+            },{
+                "name":"Tenya Iida",
+                "description":"Close friend of Izuku Midoriya in class 1A, quirk: engine, famous catchphrase: wanting to do something and being worthy of it are two different things.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/16/299418.jpg"
+            }
+            ]
+        },
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "description": "After losing almost everything two brothers must find a way to gain back the bodies they lost. However while trying to do so they learn more about what lies in the shadows of their society.",
+            "url": "https://cdn.myanimelist.net/images/anime/1629/108486l.jpg",
+            "characters":[{
+                "name":"Edward Elric",
+                "description":"One of the co-Protagonists in the series. Having cost him an arm and a leg he has the power to use Alchemy without alchemical circles.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/9/72533.jpg"},
+            {
+                "name":"Alphonse Elric",
+                "description":"One of the co-Protagonists in the series. He has the power to use Alchemy without alchemical circles like his brother, however it cost him his body. ",
+                "charImage":"https://cdn.myanimelist.net/images/characters/5/54265.jpg"
+            },
+            {
+                "name":"Roy Mustang",
+                "description":"A State Alchemist Colonel who specializes in fire Alchemy and is incredibly quick tempered.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/11/510227.jpg"
+            },{
+                "name":"Winry Rockbell",
+                "description":"Childhood friend of Edward and Alphonse and a mechanic that works on Edwards mechanical arm when he comes to her town.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/15/84336.jpg"
+               
+            },{
+                "name":"Alex Louis Armstrong",
+                "description":"The State Alchemist Major who specializes in physical enhancement alchemy using metal gauntlets as his weapon of choice.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/2/71066.jpg"
+            },{
+                "name":"Riza Hawkeye",
+                "description":"The bodyGuard of Roy Mustang who specializes in firearms and sharpshooting.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/3/451785.jpg"
+            }
+            ]
+        },
+        {
+            "title": "Love, Chunibyo & Other Delusions!",
+            "description": "Yuuta Togashi who has found himself recently over chunibyo has started a new life in a new highschool but his idea of a new life is shattered one Rikka Takanashi enters it.",
+            "url": "https://cdn.myanimelist.net/images/anime/12/72720.jpg",
+            "characters":[{
+                "name":"Rikka Takanashi",
+                "description":"A character who still has chunibyo and believes she has the Tyrant's eye wearing a medical eye patch to seal it.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/2/257273.jpg"},
+            {
+                "name":"Yuuta Togashi",
+                "description":"Someone who had chunibyo but has stopped until Rikka came back into his life thrusting him back into it.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/6/173407.jpg"
+            },
+            {
+                "name":"Sanae Dekomori",
+                "description":"A \"Disciple\" of Rikka who also has chunibyo wielding  Mjolnir hammers which are in reality just small weighted bags attached to her hair.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/3/183341.jpg"
+            },{
+                "name":"Shinka Nibutani",
+                "description":"Someone who once had chunibyo but through the actions of Sanae had her past of chunibyo revealed and causes her great embarrassment",
+                "charImage":"https://cdn.myanimelist.net/images/characters/2/254697.jpg"
+               
+            },{
+                "name":"Kumin Tsuyuri",
+                "description":"Someone who will sleep anywhere at anytime without any problems, she joins the group to get her sleeping club made into an offical club",
+                "charImage":"https://cdn.myanimelist.net/images/characters/13/210137.jpg"
+            },{
+                "name":"Touka Takanashi",
+                "description":"The sister of Rikka who tries her best to get Rikka out of her chunibyo mindset. With her career in cooking she uses a ladle as a boomerang with extreme accuracy",
+                "charImage":"https://cdn.myanimelist.net/images/characters/14/219051.jpg"
+            }
+            ]
+        },
+        {
+            "title": "The Devil is a Part Timer",
+            "description": "Having been defeated by The Hero the Demon Lord flees from his world to make plans for his return but upon arrival all of his powers are lost leaving him powerless in a new world.",
+            "url": "https://cdn.myanimelist.net/images/anime/4/42855.jpg",
+            "characters":[{
+                "name":"Sadao Maou",
+                "description":"The Demon Lord who fled his world causing him to lose his power and take on the job as a MgRonald's employee.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/6/206851.jpg"},
+            {
+                "name":"Emi Yusa",
+                "description":"The Hero who defeated and followed the Demon Lord to another world causing her to lose her powers and find her own employment.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/8/205261.jpg"
+            },
+            {
+                "name":"Shirou Ashiya",
+                "description":"A Demon Lord General that fled with the Demon Lord causing him to lose his power and take on the role of housekeeper and researcher.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/7/206523.jpg"
+            },{
+                "name":"Chiho Sasaki",
+                "description":"An employee at MgRonald that slowly gets intertwined in the affairs of the Demons and Angels that were transported to her world.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/9/205941.jpg"
+               
+            },{
+                "name":"Hanzou Urushihara",
+                "description":"After being defeated by the Demon King is began living with Maou and Shirou who spends his time laying around and looking for new thing on the internet.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/9/204641.jpg"
+            },{
+                "name":"Suzuno Kamazuki",
+                "description":"Chief of the Doctrinal Corrections Council who lives next to Maou and his allies. She also assists Emi when she can.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/7/206525.jpg"
+            }
+            ]
+        },
+        {
+            "title": "Demon Slayer",
+            "description": "In a world filled with demon Tanjirou Kamado must find a way to make his sister human after she turned into a demon facing against demons who wish for his death. In order to survive he joins the Demon Slayer corps and learns how to wield a Nichirin Blade a weapon made of Nichirin the only material able to kill demons.",
+            "url": "https://cdn.myanimelist.net/images/anime/1310/100840.jpg",
+            "characters":[{
+                "name":"Tanjirou Kamado",
+                "description":"The Protagonist of the series who joins Demon Slayer Corps to find a way to turn his sister human once again, he uses the Water Breathing and later Sun Breathing.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/6/386735.jpg"},
+            {
+                "name":"Nezuko Kamado",
+                "description":"deuteragonist  of the series and sister of Tanjiro Kamado, she is mainly seen inside of a wooden box that Tanjirou carries on his back and only comes out at night. She uses hand to hand combat in fights.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/7/380411.jpg"
+            },
+            {
+                "name":"Zenitsu Agatsuma",
+                "description":"One of the main characters that joins Tanjirou in his growth as a demon slayer and travels, he uses the Thunder Breathing style and has only learned the first form but has perfected and even enhanced it. ",
+                "charImage":"https://cdn.myanimelist.net/images/characters/6/384253.jpg"
+            },{
+                "name":"Inosuke Hashibira",
+                "description":"One of the main characters that joins Tanjirou in his growth as a demon slayer and travels, he uses Beast Breathing a style that he himself made and is the only one to use.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/3/329560.jpg"
+               
+            },{
+                "name":"Kyoujurou Rengoku",
+                "description":"A Hashira that assisted Tanjirou during his joureny and during his first encounter with the other Hashira, he uses Flame Breathing.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/10/423443.jpg"
+            },{
+                "name":"Kanao Tsuyuri",
+                "description":"A major supporting character and adoptive sister of Shinobu and Kanae Kocho, she is a practitioner of the Flower Breathing style.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/2/384712.jpg"
+            }
+            ]
+        },
+        {
+            "title": "The Seven Deadly Sin",
+            "description": "A group of warriors who were wrongly accused of a crime they didn't commit and went on a quest to vindicate themselves, with each character having their own sins tied to them.",
+            "url": "https://cdn.myanimelist.net/images/anime/12/69453.jpg",
+            "characters":[{
+                "name":"Meliodas",
+                "description":"The Main Protagonist of the Series. Owner of the Boar Hat and the Leader of the Seven Deadly sins, he is known as the Dragon Sin of Wraith and the has the power of Full Counter.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/2/255447.jpg"},
+            {
+                "name":"Ban",
+                "description":"A member of the Seven Deadly Sins and a close companion to Meliodas, he is known as the Fox Sin of Greed and has the power of Snatch.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/14/267813.jpg"
+            },
+            {
+                "name":"Hawk",
+                "description":"A companion of Melidous who acts as the coustodian of the boar hat and later gains the ability of Transpork which allows him to gain the abilities of anything he eats.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/2/255451.jpg"
+            },{
+                "name":"Elizabeth Liones",
+                "description":"The deuteragonist of the series and the addoptive princess of the Kingdom of Liones. She sets on a Journey to find The Seven Deadly Sins and upon finding Meliodas begins working as a maid at the Boar Hat.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/11/255449.jpg"
+               
+            },{
+                "name":"King",
+                "description":"The protector of the Fairy King's Forest and the Fairy Realm. He is known as the Grizzly Sin of Sloth and has the power of Disaster.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/16/277006.jpg"
+            },{
+                "name":"Diane",
+                "description":"A Member of the Giant's clan and Seven Deadly sins. She is known as the Serpent Sin of Envy and has the power of Creation.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/9/273829.jpg"
+            }
+            ]
+        },
+        {
+            "title": "Attack on Titan",
+            "description": "A world where being behind large walls is the safest place to be and those that go beyond are thought to seek death as beyond the walls lie titans that wish to destroy humanity.",
+            "url": "https://cdn.myanimelist.net/images/anime/1907/134102.jpg",
+            "characters":[{
+                "name":"Eren Yeager",
+                "description":"The Main Protagonist of the Series and a memeber of the Scout Regiment he joined to get revenge on the titans.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/10/216895.jpg"},
+            {
+                "name":"Mikasa Ackerman",
+                "description":"One of the two Deuteragonists of the Series and a memeber of the Scount Regiment she joined it so she could protect Eren.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/9/215563.jpg"
+            },
+            {
+                "name":"Armin Arlert",
+                "description":"One of the two Deuteragonists of the Series and a memeber of the Scount Regiment he joined it because his two childhood friends Eren and Misaka did.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/8/220267.jpg"
+            },{
+                "name":"Levi Ackerman",
+                "description":"The Captain of the Special Operations Squad and considered to be humanity's strongest solider. The only person capable of keeping pace with him is Mikasa.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/2/241413.jpg"
+               
+            },{
+                "name":"Erwin Smith",
+                "description":"The 13th commander of the Scount Regiment, he widely respected and incredibly intelligent able to command large amounts of Scouts with ease.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/3/206431.jpg"
+            },{
+                "name":"Sasha Blouse",
+                "description":"A memeber of the Scount Regiment with an obsession over food but is incredibly skilled in the field due to her family being hunters.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/6/251937.jpg"
+            }
+            ]
+        },
+        {
+            "title": "One Punch Man",
+            "description": "On a super content version of earth monsters and villains are a daily and for Saitama being a hero is something is done for fun.",
+            "url": "https://cdn.myanimelist.net/images/anime/7/72533.jpg",
+            "characters":[{
+                "name":"Saitama",
+                "description":"The Protagonist of the series and a Hero for fun after having trained for three years he gained the ability to defeat any foe with a single punch.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/11/294388.jpg"},
+            {
+                "name":"Genos",
+                "description":"The Co-Protagonist of the Series, he is a Cyborg who becomes Saitama's disciple after seeing his strength in battle. His goal is to track down the mad cyborg so he can get his revenge on him for killing his family.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/9/297329.jpg"
+            },
+            {
+                "name":"King",
+                "description":"An S rank Hero people believe he has the strength to defeat any villain or monster he faces but in reality he incredibly weak and simply manages to \"defeat\" the foes through nothing but luck or the sound of his beating heart.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/5/295005.jpg"
+            },{
+                "name":"Speed-o'-Sound Sonic",
+                "description":"A Villain that uses speed and Ninja weapons for combat. Through his many defeats when facing Saitama he begins seeing Saitama as his rival and hopes to beat him",
+                "charImage":"https://cdn.myanimelist.net/images/characters/2/294250.jpg"
+               
+            },{
+                "name":"Tatsumaki",
+                "description":"An S rank Hero and is ranked 2nd in overall ranking. She is a powerful epser and uses her abilty to perform psychic abilities such as a telekensis and levitation.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/9/541192.jpg"
+            },{
+                "name":"Garou",
+                "description":"A Villain and a self entitled Hero Hunter, as a former Disciple of a skilled martial artists he uses his skills to take down hero's trying to prove their worthlessness.",
+                "charImage":"https://cdn.myanimelist.net/images/characters/9/381817.jpg"
+            }
+            ]
+        }
+    ]
+}
+
+
+
+
